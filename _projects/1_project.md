@@ -1,35 +1,27 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: MiRo Bio-inspired Visual-System
+description: Apply Computer Vision algorihtms on a biomimetic robot named MiRo.  
+img: assets/img/MiRo-tracking.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project is my dissertation thesis's output reuslt. It is my first version of an autonomous visual system which is 
+purely based on using OpenCV APIs,and the final aim of this project is to intercept another moving target. I defined 
+three targets, named pedestrians, another MiRo robot and MiRo toy ball in this project. There are three scenarios for 
+different deploying methods. One is deploying on-board, and the other two are deploying off-board or in simulator (Gazebo). 
+Some codes are inspired from code samples in the MDK-2019 version. Thanks for their brilliant work on building MiRo robots. 
+I am also one of the big fan loving biomimetic robots.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MiRo-tracking.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MiRo-tracking-pedestrian.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
