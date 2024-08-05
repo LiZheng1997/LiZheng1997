@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zheng Li",
+    "label": "Perception Algorithm Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "1429053840@qq.com",
+    "phone": "None",
+    "url": "https://github.com/LiZheng1997/LiZheng1997",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,30 +24,45 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Intelligent Warehouse Department, Yunda Express",
+      "position": "Perception Algorithm Engineer",
+      "url": "http://www.udalogistic.com/index",
+      "startDate": "2020-5",
+      "endDate": "2021-4",
+      "summary": "Developing perception algorithms for robotics arms and autonomous ground vehicles",
       "highlights": [
         "Relativity"
       ]
+    },
+    {
+      "name": "Autonomous Driving Department, Pixmoving",
+      "position": "Autonoumous Driving Algorithm Engineer",
+      "url": "http://www.udalogistic.com/index",
+      "startDate": "2021-4",
+      "endDate": "2023-02",
+      "summary": "Developing perception algorithms for autonomous vehicles and robotics arms",
+      "highlights": [
+        "Relativity"
+      ] 
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "University of Sheffield, UK",
+      "url": "https://www.sheffield.ac.uk/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "studyType": "Master",
+      "startDate": "2018-09-24",
+      "endDate": "2019-11-01",
+      "score": "Distinction",
       "courses": [
-        "Theory of Relativity"
+        "Machine Learning",
+        "The Intelligent Web"
       ]
+    },
+    {
+
     }
   ],
   "awards": [
@@ -63,7 +78,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
