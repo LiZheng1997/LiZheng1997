@@ -30,4 +30,8 @@ All Public services are listed bellow:
 
 The apperance of my servers in my Cabinet is like bellow:
 
-<img src="assets/img/Cabinet.jpg" alt="Cabinet" style="zoom:50%;" />
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Cabinet.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
