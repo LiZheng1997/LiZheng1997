@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-05-1 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My first [HomeLab](http://www.gputek.cn:8083/) is built up sucessfully! :sparkles: :smile:
+I released my homelab configurations on my [Github](https://github.com/LiZheng1997/homelab).
