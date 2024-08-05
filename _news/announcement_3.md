@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-05-1 
-inline: true
+inline: false
 related_posts: false
 ---
 
