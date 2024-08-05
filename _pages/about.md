@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Perception Algorithm Engineer
 
 profile:
   align: right
   image: li_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>xxxxx </p>
+    <p>private address</p>
+    <p>Shanghai City</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I graduated from the University of Sheffield, earning a Master’s degree in Advanced Computer Science with distinction. During my postgraduate studies, I focused on courses such as Machine Learning and Adaptive Intelligence, Software Development for Mobile Devices, Modelling and Simulation of Natural Systems, Spiking Neural Networks and Reinforcement Learning, and The Intelligent Web. Under the guidance of my supervisor, Eleni Vasilaki, I studied the fundamental theories of spiking neural networks and reinforcement learning. I selected a MiRo biomimetic robot from the Sheffield Robotics Lab as my platform and developed an end-to-end vision system based on biomimetic theories. The detailed code has been open-sourced on my GitHub.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout this process, I discovered a passion for research work and hope to dedicate more time to studies in the fields of spiking neural network and robotics. Currently, my research interests include Spiking Neural Networks, Event Cameras, Bio-inspired Adaptive Robotics, End-to-End Autonomous Systems, Autonomous Driving, Long-term Learning, Imitation Learning, and more.
