@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-1 
+title: My HomeLab is built up sucessfully!
 inline: false
 related_posts: false
 ---
