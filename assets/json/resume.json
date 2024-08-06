@@ -87,16 +87,16 @@
     }
   ],
   "awards": [
-  ],
-  "certificates": [
     {
       "title": "Intermediate Software Designer Certification",
       "date": "2023-5-27",
       "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
-      "summary": "Qualification of Computer and Software Professional"
+      "summary": "Qualification of Computer and Software Professional."
     }
   ],
-  "publications": [],
+  "certificates": ["test if displayed"
+  ],
+  "publications": ["Patent"],
   "skills": [
     {
       "Deep Learning": "",
