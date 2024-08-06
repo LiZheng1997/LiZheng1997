@@ -103,7 +103,7 @@
     },
     {
       "title": "Test for English Majors-Band 4",
-      "date": "2016-4",
+      "date": "2016-4-01",
       "awarder": "The Advisory Committee of Foreign Language Teaching in Vocational Education, Ministry of Education, P.R. China.",
       "summary": "Qualification of English Major Study"  
     }
@@ -126,7 +126,9 @@
       "keywords": [
         "Python",
         "Transformer",
-        "End to End learning"
+        "Pytorch",
+        "Tensorflow",
+        "MXNet"
       ]
     }
   ],
