@@ -125,10 +125,10 @@
       "level": "Familiar",
       "keywords": [
         "Python",
-        "Transformer",
         "Pytorch",
         "Tensorflow",
-        "MXNet"
+        "MXNet",
+        "Transformer"
       ]
     }
   ],
