@@ -55,18 +55,35 @@
     {
       "institution": "University of Sheffield, UK",
       "url": "https://www.sheffield.ac.uk/",
-      "area": "Software Development",
+      "area": "Computer Science",
       "studyType": "Master",
       "startDate": "2018-09-24",
       "endDate": "2019-11-01",
-      "score": "Distinction",
+      "score": "Distinction(3.8/4.0)",
       "courses": [
-        "Machine Learning",
-        "The Intelligent Web"
+        "Machine Learning and Adaptive Intelligence",
+        "Object Oriented Programming and Software Design",
+        "The Intelligent Web",
+        "Modelling and Simulation of Natural Systems",
+        "Software development for mobile devices"
       ]
     },
     {
-
+      "institution": "Jiangxi Agricultural University, CN",
+      "url": "https://www.jxau.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-18",
+      "endDate": "2018-07-01",
+      "score": "83/100",
+      "courses": [
+        "Java Web Programming",
+        "C Programming",
+        "Data Structur",
+        "Software Engineering",
+        "Linear Algebra",
+        "Web Development Technology(Java)"
+      ]
     }
   ],
   "awards": [
