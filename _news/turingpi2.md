@@ -3,7 +3,7 @@ layout: post
 date: 2023-04-10 
 title: Launch a TuringPi2 Power-efficient Super Server!
 inline: false
-related_posts: false
+related_posts: true
 ---
 
 I bought a [TuringPi2](https://turingpi.com/product/turing-pi-2/)  board for building a multi-nodes cluster super computing server. Now, I installed one Jetson Xavier NX Compute Module and two Raspberry Pi CM4, and a Jetson Orin NX will be installed in the future.
