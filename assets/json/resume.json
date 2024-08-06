@@ -108,8 +108,12 @@
       "url": ""  
     }
   ],
-  "publications": [
-],
+  "publications": [{
+    "name": "Patent",
+    "date": "2023-5-01",
+    "issuer": "",
+    "summary": "No. CN 116630374 A"
+  }],
   "skills": [
     {
       "name": "Web Development",
