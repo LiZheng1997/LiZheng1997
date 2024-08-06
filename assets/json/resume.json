@@ -59,7 +59,7 @@
       "studyType": " Master",
       "startDate": "2018-09-24",
       "endDate": "2019-11-01",
-      "score": "Distinction(3.8/4.0)",
+      "score": "3.8",
       "courses": [
         "Machine Learning and Adaptive Intelligence",
         "Object Oriented Programming and Software Design",
@@ -75,7 +75,7 @@
       "studyType": " Bachelor",
       "startDate": "2014-09-18",
       "endDate": "2018-07-01",
-      "score": "83/100",
+      "score": "83",
       "courses": [
         "Java Web Programming",
         "C Programming",
@@ -96,22 +96,28 @@
   ],
   "certificates": [
     {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    },
+    {
       "name": "Intermediate Software Designer Certification",
-      "date": "2023-5-27",
+      "date": "2023-05-27",
       "issuer": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
       "url": ""
     },
     {
       "name": "Test for English Majors-Band 4",
-      "date": "2016-4-01",
+      "date": "2016-04-01",
       "issuer": "The Advisory Committee of Foreign Language Teaching in Vocational Education, Ministry of Education, P.R. China.",
       "url": ""  
     }
   ],
   "publications": [{
     "name": "Patent",
-    "date": "2023-5-01",
-    "issuer": "",
+    "releaseDate": "2023-05-01",
+    "publisher": "",
     "summary": "No. CN 116630374 A"
   }],
   "skills": [
@@ -154,5 +160,16 @@
       ]
   }],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
 }
