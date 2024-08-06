@@ -98,8 +98,8 @@
     {
       "name": "Intermediate Software Designer Certification",
       "date": "2023-5-27",
-      "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
-      "summary": "Qualification of Computer and Software Professional."
+      "issuer": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
+      "url": "Qualification of Computer and Software Professional."
     },
     {
       "title": "Test for English Majors-Band 4",
@@ -126,7 +126,7 @@
       "keywords": [
         "Python",
         "Transformer",
-        "End to End"
+        "End to End learning"
       ]
     }
   ],
@@ -140,7 +140,13 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [{
+      "name": "Music",
+      "keywords":[
+        "Tranditional",
+        "Pop"
+      ]
+  }],
   "references": [],
   "projects": []
 }
