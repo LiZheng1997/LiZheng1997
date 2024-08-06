@@ -30,11 +30,10 @@
       "endDate": "2021-4",
       "summary": "Developing perception algorithms for robotics arms and autonomous ground vehicles",
       "highlights": [
-        "Developed a standard Pixkit-1.0 full-stack autonomous driving platform from 0 to 1.",
-        "Completed a Follow Me Project which satisfed our customers.",
-        "Launched a trash perception module of sweeping robots for our customers.",
-        "Designed and deployed the whole perception framework of a robobus(shuttle bus) project."
-      ]
+        "Designed and deployed a 6D object detection module for a robotics arm through using ISAAC.",
+        "Designed and deployed 2D & 3D perception module of a Autonomous Ground Vehicle.",
+        "Designed and deployed a POSP(Picking Out Signle Package) system for Yunda Express."
+      ] 
     },
     {
       "name": "Autonomous Driving Department, Pixmoving",
@@ -43,11 +42,12 @@
       "startDate": "2021-4",
       "endDate": "2023-02",
       "summary": "Developing perception algorithms for autonomous vehicles and robotics arms",
-      "highlights": [
-        "Designed and deployed a 6D object detection module for a robotics arm through using ISAAC.",
-        "Designed and deployed 2D & 3D perception module of a Autonomous Ground Vehicle.",
-        "Designed and deployed a POSP(Picking Out Signle Package) system for Yunda Express."
-      ] 
+      "highlights":[
+        "Developed a standard Pixkit-1.0 full-stack autonomous driving platform from 0 to 1.",
+        "Completed a Follow Me Project which satisfed our customers.",
+        "Launched a trash perception module of sweeping robots for our customers.",
+        "Designed and deployed the whole perception framework of a robobus(shuttle bus) project."
+      ]
     }
   ],
   "volunteer": [],
@@ -87,16 +87,24 @@
     }
   ],
   "awards": [
+  ],
+  "certificates": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Intermediate Software Designer Certification",
+      "date": "2023-5-27",
+      "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
+      "summary": "Qualification of Computer and Software Professional"
     }
   ],
-  "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "Deep Learning": "",
+      "java": "",
+      "C++": "",
+      "Python": ""
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
