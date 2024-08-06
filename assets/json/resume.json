@@ -156,7 +156,7 @@
     {
       "name": "Music",
       "keywords":[
-        "Tranditional",
+        "Piano",
         "Pop"
       ]
   },
@@ -177,7 +177,6 @@
       "endDate": "2021-01-01",
       "description": "Description...",
       "highlights": [
-        "Won award at AIHacks 2016"
       ],
       "url": "https://project.com/"
     }
