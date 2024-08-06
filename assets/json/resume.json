@@ -117,7 +117,7 @@
   "publications": [{
     "name": "Patent",
     "releaseDate": "2023-05-01",
-    "publisher": "",
+    "publisher": "Zheng Li, Qingyi Liu",
     "summary": "No. CN 116630374 A"
   }],
   "skills": [
@@ -152,13 +152,23 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [{
+  "interests": [
+    {
       "name": "Music",
       "keywords":[
         "Tranditional",
         "Pop"
       ]
-  }],
+  },
+  {
+    "name": "Play Robots",
+    "keywords":[
+      "Biomimetic Robot",
+      "Vector Robot",
+      "iCub"
+    ]
+}
+],
   "references": [],
   "projects": [
     {
