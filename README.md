@@ -16,13 +16,10 @@ This project's objective is implementing a visual tracking and control system to
 POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camear, like Realsense D415/D435. All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
 
 ### "RoboBus"
-Doing research and development works in the perception module of a Robobus project, which includes
-deploying a joint calibration method for cameras and LiDARs; doing research about the comparison of
-different vehicle specification level cameras; designing a solution of mounting various cameras for
-robots’ perception modules; doing tests about time synchronisation on hardware-level; doing research
-about multi-camera BEV perception paradigms for 3D detection modules and doing research about
-multi-modal sensor fusion algorithms.
+The Robobus is a autonoumous shuttle bus which designed for urban area. I mainly hold the part of whole perception framework.
 
+### "Sweeping Robots"
+Sweeping robots are autonomous mobile robots for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance.
 
 ## Research Experience
 
@@ -49,6 +46,14 @@ about data augmentation in object detection research field; and developing a onl
 
 ### A Perception module of Autoware full stack AD framework
 Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and finally these works are formed into a standard released version for customers.
+
+### A Perception moudle of autonomous shuttle bus
+Doing research and development works in the perception module of a Robobus project, which includes
+deploying a joint calibration method for cameras and LiDARs; doing research about the comparison of
+different vehicle specification level cameras; designing a solution of mounting various cameras for
+robots’ perception modules; doing tests about time synchronisation on hardware-level; doing research
+about multi-camera BEV perception paradigms for 3D detection modules and doing research about
+multi-modal sensor fusion algorithms.
 
 
 ## Patents
