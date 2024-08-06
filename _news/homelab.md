@@ -8,7 +8,7 @@ related_posts: false
 
 My first [HomeLab](http://www.gputek.cn:8083/) is built up sucessfully! :sparkles: :smile:
 
-I released my homelab configurations on my [Github](https://github.com/LiZheng1997/homelab).
+I released my homelab configurations on my [Github](https://github.com/LiZheng1997/homelab), you can find more details on my github repository.
 
 All Public services are listed bellow:
 
