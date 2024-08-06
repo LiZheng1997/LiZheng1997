@@ -94,7 +94,13 @@
       "summary": "Qualification of Computer and Software Professional."
     }
   ],
-  "certificates": ["test if displayed"
+  "certificates": [
+    {
+      "title": "Intermediate Software Designer Certification",
+      "date": "2023-5-27",
+      "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
+      "summary": "Qualification of Computer and Software Professional."
+    }
   ],
   "publications": ["Patent"],
   "skills": [
