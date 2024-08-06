@@ -4,7 +4,7 @@
     "label": "Perception Algorithm Engineer",
     "image": "",
     "email": "1429053840@qq.com",
-    "url": "https://github.com/LiZheng1997/LiZheng1997",
+    "url": "https://neuronsvision.com/",
     "summary": "",
     "location": {
       "address": "2712 Broadway St",
@@ -15,9 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "zhengli",
+        "url": "https://www.linkedin.com/in/zhengli-bluet/"
       }
     ]
   },
@@ -96,26 +96,38 @@
   ],
   "certificates": [
     {
-      "title": "Intermediate Software Designer Certification",
+      "name": "Intermediate Software Designer Certification",
       "date": "2023-5-27",
       "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
       "summary": "Qualification of Computer and Software Professional."
+    },
+    {
+      "title": "Test for English Majors-Band 4",
+      "date": "2016-4",
+      "awarder": "The Advisory Committee of Foreign Language Teaching in Vocational Education, Ministry of Education, P.R. China.",
+      "summary": "Qualification of English Major Study"  
     }
   ],
   "publications": [
-    {
-    "title": "Intermediate Software Designer Certification",
-    "date": "2023-5-27",
-    "awarder": "Ministry of Human Resources and Social Security & Ministry of Industry and Information Technology of China",
-    "summary": "Qualification of Computer and Software Professional."
-    }
 ],
   "skills": [
     {
-      "Deep Learning": "",
-      "java": "",
-      "C++": "",
-      "Python": ""
+      "name": "Web Development",
+      "level": "Familiar",
+      "keywords": [
+        "HTML",
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Familiar",
+      "keywords": [
+        "Python",
+        "Transformer",
+        "End to End"
+      ]
     }
   ],
   "languages": [
