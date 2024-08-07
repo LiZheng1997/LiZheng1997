@@ -2,7 +2,7 @@
 layout: page
 title: Follow Me
 description: a project which implements a visual tracking and control system 
-img: assets/img/3.jpg
+img: assets/img/gimbal-camera.png
 importance: 2
 category: work
 giscus_comments: true
