@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-This is my first version of an bio-inspired visual system which is based on OpenCV APIs and ANN, and the final aim of this project is intercepting a moving target. I pre-defined three targets, named pedestrians, MiRo robots and MiRo toy balls. In total, there are three scenarios for different deploying situations, like on-board; off-board and in a simulator (Gazebo). Some codes are inspired from code samples in the MDK-2019 version. Thanks for their brilliant work on building MiRo robots. I am also one of the big fan loving biomimetic robots. Link: http://labs.consequentialrobotics.com/miro-e/docs/index.php?page=Introduction
+This is my first version of an bio-inspired visual system which is based on OpenCV APIs and ANN, and the final aim of this project is intercepting a moving target. I pre-defined three targets, named pedestrians, MiRo robots and MiRo toy balls. In total, there are three scenarios for different deploying situations, like on-board; off-board and in a simulator (Gazebo). Some codes are inspired from code samples in the MDK-2019 version. Thanks for their brilliant work on building MiRo robots. I am also one of big fans loving biomimetic robots. [Consequential Robotics Lab link](http://labs.consequentialrobotics.com/miro-e/docs/index.php?page=Introduction)
 
 
 <div class="row">
