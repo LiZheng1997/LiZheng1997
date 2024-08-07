@@ -23,22 +23,29 @@ This is my first version of an bio-inspired visual system which is based on Open
     Left: A MiRo robot is tracking and following another MiRo robot. Right: A MiRo robot wants to intercept and catch a pedestrian.
 </div>
 
-**Demo1**(intercepting_ball):
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/demo_intercepting_ball.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/demo_intercepting_miro_without_safety_control_14.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    Left: A MiRo robot is intercepting a ball Right: A MiRo robot is intercepting a miro robot without safety control.
+</div>
 
-https://github.com/user-attachments/assets/e40b4b14-01dd-4721-882a-032114d49827
-
-**Demo2**(intercepting_miro_without_safety_control)
-
-https://github.com/user-attachments/assets/b8287cf4-107c-41ef-ab00-4e6006fa9c54
-
-**Demo3**(intercepting_miro_real_world)
-
-https://github.com/user-attachments/assets/22280969-d234-42e9-8bf1-78218282ab04
-
-**Demo4**(intercepting_pedestrian_real_world)
-
-https://github.com/user-attachments/assets/27777dc7-73cb-4ded-9c11-af9d9ba88df4
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/demo_real_world_miro.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/demo_real_world_pedestrian.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    Left: A MiRo robot is tracking and following another MiRo robot. Right: A MiRo robot wants to intercept and catch a pedestrian.
+</div>
 
 ***Branches Notes:*** 
 
