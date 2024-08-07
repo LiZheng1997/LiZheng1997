@@ -7,16 +7,16 @@ https://www.bluenote.top
 ## Previous Projects
 
 ### "Miro-CV-System"
-This is my dissertation project in 2019, all codes are open sourced, you can read more details from my [repository](https://github.com/LiZheng1997/MiRo-CV-System).
+This is my dissertation project when I was in the University of Sheffield in 2019. All codes are open sourced, you can read more details from my [repository](https://github.com/LiZheng1997/MiRo-CV-System).
 
 ### "Follow Me"
-This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it.
+This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released on my [repository](https://github.com/LiZheng1997/Follow-Me).
 
 ### "POSP"
-POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camear, like Realsense D415/D435. All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
+POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camear, like Realsense D415/D435(I used a D415 in this project). All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
 
 ### "RoboBus"
-The Robobus is a autonoumous shuttle bus which designed for urban area. I mainly hold the part of whole perception framework.
+The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus which designed for urban area. I mainly hold the part of whole perception framework.
 
 ### "Sweeping Robots"
 Sweeping robots are autonomous mobile robots for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance.
