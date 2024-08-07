@@ -14,6 +14,9 @@ I designed and implemented a pure visual tracking system for a customer. The cus
 
 <center>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</center>
+
+<center>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=561767384&bvid=BV1xe4y1i7wi&cid=866931240&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </center>
 
@@ -46,9 +49,11 @@ The gimbal camear used in this project looks like pictures bellow.
 
 # A flow diagram
 
-<center>
-<img src="assets/img/SOT-tracking-diagram.png" alt="Flow Diagram" style="zoom:50%;" />
-</center>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/SOT-tracking-diagram.png" title="Flow Diagram" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Detection, Tracking and Visual Control
 
