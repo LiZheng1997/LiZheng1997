@@ -44,10 +44,10 @@ trash detection and a segmentation module; road curb detection module. Achieving
 solution of mounting a stereo camera detection module on a sweeping robot;  doing research
 about data augmentation in object detection research field; and developing a online website for annotating 2D and 3D objects.
 
-### A Perception module of Autoware full stack AD framework
+### A Perception module of autoware full stack AD framework
 Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and finally these works are formed into a standard released version for customers.
 
-### A Perception moudle of autonomous shuttle bus
+### A Perception module of autonomous shuttle bus
 Doing research and development works in the perception module of a Robobus project, which includes
 deploying a joint calibration method for cameras and LiDARs; doing research about the comparison of
 different vehicle specification level cameras; designing a solution of mounting various cameras for
