@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: a project for picking out a single package
-img: assets/img/Figure_1.png
+img: assets/img/single-package.jpg
 importance: 3
 category: work
 ---
