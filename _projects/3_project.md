@@ -16,20 +16,32 @@ POSP means Pick Out Single Package, this project aims at solving the problem of 
 
 Some screenshots about the detection of parallel packages are like bellow:  
 
-<table  align="center">
-    <tr>
-    <td ><center>
-        <img src="assets/img/0001_Color.png" title="parallel packages color" width="300" /><img src="assets/img/0001_Depth.png"  title="parallel packages depth" width="300"/>
-    </td ></center>
-    </tr>
-    <tr>
-    <td ><center class="half">
-    <img src="assets/img/0002_Color.png" width="300"><img src="assets/img/0002_Depth.png" width="300">
-    </td ></center>
-    </tr>
-    <td ><center class="half">
-    <img src="assets/img/0003_Color.png" width="300"><img src="assets/img/0003_Depth.png" width="300">
-    </td ></center>
-    </tr>
-</table>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0001_Color.png" title="parallel packages color" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0001_Depth.png" title="parallel packages depth" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0002_Color.png" title="kinematic model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0002_Depth.png" title="kinematic model" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0003_Color.png" title="kinematic model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0003_Depth.png" title="kinematic model" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
