@@ -129,7 +129,7 @@ In this system, I implemented two kinds of braitenberg vehicles, **2b (aggressio
         {% include figure.html path="assets/img/image-20240805133159394.png" title="2b" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/image-20240805133159394.png" title="3a" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image-20240804165358095.png" title="3a" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
