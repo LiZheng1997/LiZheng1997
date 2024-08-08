@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-The H-Ackerman robot is mounted with a Jetson Xavier and a stereo camera. It is based on the Ackerman chassis theory, not a differential base. The following picture is this robot:
+The **H-Ackerman robot** is designed with using a Jetson Xavier and a stereo camera. It is based on the Ackerman chassis theory, not a differential base. The following picture is this robot:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -14,4 +14,6 @@ The H-Ackerman robot is mounted with a Jetson Xavier and a stereo camera. It is 
     </div>
 </div>
 
-This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Li Sun in the University of Sheffield. You can find more details in the projects page, named T & R Visual Navigation.
+This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Li Sun in the University of Sheffield. You can find more details in the [ projects page](https://neuronsvision.com/projects/4_project/), named T & R Visual Navigation.
+
+A real time video can be accessed through following link:
