@@ -18,12 +18,17 @@ Some relevant pictures are attached bellow:
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Vector-Robot-3d-viewer.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/two-vector-robots.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Vector-Robot-3d-viewer1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+
 
 More details can be found in my blog:
 My [blog](https://www.gputek.cn:8093/2023/06/06/012-IntelligentAIRobots/01-VectorRobots/%E5%A6%82%E4%BD%95%E5%9C%A8Ubuntu18-04%E7%B3%BB%E7%BB%9F%E4%B8%8A%E6%93%8D%E4%BD%9CVector%E6%9C%BA%E5%99%A8%E4%BA%BA/index.html) expains all steps to setup this server locally on your laptop or RaspberryPi(in Chinese).
