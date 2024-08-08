@@ -4,7 +4,7 @@ title: MiRo Bio-inspired Visual-System
 description: Apply Computer Vision algorihtms & a bio-inspired theory on a biomimetic robot named MiRo.  
 img: assets/img/MiRo-tracking.png
 importance: 1
-category: Research
+category: research
 related_publications: 
 ---
 

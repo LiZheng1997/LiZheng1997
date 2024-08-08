@@ -4,7 +4,7 @@ title: T & R Visual Navigation
 description: Teach & Repeat Visual Navigation using a Jaguar 4 wheels Robot
 img:
 importance: 4
-category: Research
+category: research
 ---
 
 # Background
