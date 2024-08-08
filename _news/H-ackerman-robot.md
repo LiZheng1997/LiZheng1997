@@ -14,4 +14,4 @@ The H-Ackerman robot is mounted with a Jetson Xavier and a stereo camera. It is 
     </div>
 </div>
 
-This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Sun Li in the University of Sheffield. You can find more details in the projects page, named T & R Visual Navigation.
+This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Li Sun in the University of Sheffield. You can find more details in the projects page, named T & R Visual Navigation.
