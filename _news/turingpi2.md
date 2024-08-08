@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-10 
+date: 2023-07-05
 title: Launch a TuringPi2 Power-efficient Super Server!
 inline: false
 related_posts: true
