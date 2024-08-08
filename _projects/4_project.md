@@ -1,80 +1,73 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: T & R Visual Navigation
+description: Teach & Repeat Visual Navigation using a Jaguar 4 wheels Robot
 img:
-importance: 3
-category: fun
+importance: 4
+category: Research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Background
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+During the short internship with Dr Li Sun from 2019.12-2020.01, and under the help of two PhD students from the Czech Technical University in Prague, I deployed the following Teach & Repeat algorithms on a Jaguar robot 4x4 wheels(differential base), with a ZED stereo camera mounted on it. All codes can accessed from their [github](https://github.com/Bluet-NeuroRobotics/stroll_bearnav/tree/core?tab=readme-ov-file)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/jaguar-robot.jpg" title="Framework" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Navigation-process.png" title="Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+        Left: The Jaguar robot's outlook
+        Right: The Testing place is near a church 
 </div>
+
+
+
+The final video demo is attached bellow, you can click the picture to watch it.
+
+[![Teach & Repeat visual navigation](https://res.cloudinary.com/marcomontalbano/image/upload/v1723098695/video_to_markdown/images/youtube--4-_VVGgxXEI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=4-_VVGgxXEI "Teach & Repeat visual navigation")
+
+
+
+# System
+
+## Hardware
+1. a ZED camera(1st 2nd mini generation are all nice)
+2. a PS4 joystick (for the first teach round, not used in repeat round)
+3. a Ackerman chassis or robots with differential base (control commands will be different)
+4. a Jetson Xavier/Orin Developer Kit 32G/Laptop. (Computing Unit)
+5. a ac8265 wifi card is necessary (if you use Jetson Dev kit)
+6. a USB Hub
+7. a USB to TTL serial port Line
+
+## Software
+1. PS4 ROS driver
+2. Ackerman chassis ROS driver/Robot Velocity Control ROS driver
+3. ZED camera ROS driver
+4. ROS1-melodic
+
+
+# Framework
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/t&p-framework.png" title="Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+# Relevant Links
+[Day-to-night navigation using a single experience map](https://sites.google.com/view/kevinlisun/home/project-navigation?authuser=0)
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+[Visual Teach & Repeat 3](https://utiasasrl.github.io/vtr3/)
+
+
+# References
+
+[1] Krajník, T., Majer, F., Halodová, L. and Vintr, T., 2018, October. Navigation without localisation: reliable teach and repeat based on the convergence theorem. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1657-1664). IEEE.
