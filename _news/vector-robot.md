@@ -14,7 +14,7 @@ Then, I found a open-sourced [repository](https://github.com/kercre123/wire-pod)
 
 Some relevant pictures are attached bellow:
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Vector-Robot-3d-viewer.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -22,7 +22,7 @@ Some relevant pictures are attached bellow:
         {% include figure.html path="assets/img/two-vector-robots.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Vector-Robot-3d-viewer1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
