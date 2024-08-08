@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sucessfully built up my H-Ackerman robot!
-date: 2024-03-14 21:01:00
+date: 2023-09-14 21:01:00
 inline: false
 related_posts: false
 ---
