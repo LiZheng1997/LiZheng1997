@@ -3,7 +3,7 @@ layout: page
 title: POSP
 description: a project for picking out a single package
 img: assets/img/single-package.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
