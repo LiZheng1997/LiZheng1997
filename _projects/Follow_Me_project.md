@@ -14,7 +14,7 @@ I designed and implemented a pure visual tracking system for a customer. The cus
 
 
 <div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" width="100%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 <div class="video-container iframe-container">
@@ -71,9 +71,9 @@ The gimbal camear used in this project looks like pictures bellow.
     </div>
 </div>
 <div class="caption">
-        **Left:** YoloX Detection result
-        **Middle:** Siamfc++ Tracking result
-        **Right:** Visual Control
+        Left: YoloX Detection result
+        Middle: Siamfc++ Tracking result
+        Right: Visual Control
 </div>
 
 <div>
@@ -84,5 +84,6 @@ The gimbal camear used in this project looks like pictures bellow.
 <div class="caption">
         Realtime tracking-by-detection and following a pedstrian.
 </div>
+
 # Future Work
 In order to empower Pixkit-1.0 with a visual-based tracking and following funcionality, and mainly focus on tracking a pedestrian freely, we can use aforementioned pure visual tracking system which is the first version. In the next stage, I will develop a second version to cover more categories if needed and optimize selected sensors, I plan to change the gimbal camera to a normal RGB camera(FILR/leopard/Sensing) with a low cost. 
