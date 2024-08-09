@@ -1,5 +1,5 @@
-# Personal Academic Website
-This my personal academic web page. My research interests contain Spiking Neural Network, neurorobotics, event-based cameras, Brain-based visual learning, Active Visual Learning, etc.
+# Personal Academic Web Page
+This is my personal academic web page. My research interests contain Spiking Neural Network, neurorobotics, event-based cameras, Brain-based visual learning, Active Visual Learning, etc.
 
 ## Personal Blog
 https://www.bluenote.top
@@ -19,13 +19,14 @@ POSP is a project for Picking Out Single Package on a long conveyor belt. This a
 The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus which designed for urban area. I mainly hold the part of whole perception framework.
 
 ### "Sweeping Robots"
-Sweeping robots are autonomous mobile robots for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance.
-
-### Neurorobotics using Nengo
+Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance, road curb detection module as well.
 
 
 ### End-to-End Robot Control based on Events
+This end-to-end robot control project is similar with my miro-cv-system project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my academic page and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
 
+
+### Neurorobotics using Nengo
 
 
 ## Research Experience
@@ -38,12 +39,12 @@ An internship with Dr Li Sun in the University of Sheffield about autonomous mob
 
 ### SNN with using Event Cameras Streams
 Doing initial research and development works in Spiking Neural Network for the perception module of
-autonomous robots through using event cameras in low-light environments, especially for object
+autonomous robots through using event cameras in **low-light** environments, especially for object
 detection.
 
 ### A Perception module for KUKA Robotic arms with 3D structured-light stereo cameras
 Doing research and development works in the perception module of a KUKA robotic arm project, which
-includes doing a survey about the comparison of different 3D structured-light cameras; designing a solution of collecting the detailed 3D point cloud data for aluminium material; and doing research about how to calculate the physical error between the aluminium product’s and CAD prototype ground truth.
+includes doing a survey about the comparison of different **3D structured-light cameras**; designing a solution of collecting the detailed 3D point cloud data for aluminium material; and doing research about how to calculate the physical error between the aluminium product’s point cloud data and the CAD prototype ground truth data.
 
 ### A Perception module for sweeping robots with a ZED stereo camera
 Doing research and development works in the perception module of sweeping robots, which includes a
@@ -52,7 +53,7 @@ solution of mounting a stereo camera detection module on a sweeping robot;  doin
 about data augmentation in object detection research field; and developing a online website for annotating 2D and 3D objects.
 
 ### A Perception module of autoware full stack AD framework
-Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and finally these works are formed into a standard released version for customers.
+Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and finally these works finally formed into a standard released version for customers.
 
 ### A Perception module of autonomous shuttle bus
 Doing research and development works in the perception module of a Robobus project, which includes
