@@ -61,7 +61,6 @@ The final video demo is attached bellow, you can click the picture to watch it.
 
 
 
-
 # Relevant Links
 [Day-to-night navigation using a single experience map](https://sites.google.com/view/kevinlisun/home/project-navigation?authuser=0)
 
