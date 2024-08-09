@@ -21,6 +21,13 @@ The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus wh
 ### "Sweeping Robots"
 Sweeping robots are autonomous mobile robots for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance.
 
+### Neurorobotics using Nengo
+
+
+### End-to-End Robot Control based on Events
+
+
+
 ## Research Experience
 
 ### Teach & Repeat Visual Navigation using a Jaguar Robot
