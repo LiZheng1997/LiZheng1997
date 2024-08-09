@@ -14,11 +14,11 @@ I designed and implemented a pure visual tracking system for a customer. The cus
 
 
 <div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" width="50%"scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 <div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=561767384&bvid=BV1xe4y1i7wi&cid=866931240&p=1&muted=true" width="100%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=561767384&bvid=BV1xe4y1i7wi&cid=866931240&p=1&muted=true" width="60%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 
