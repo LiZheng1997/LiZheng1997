@@ -16,7 +16,7 @@ A video demo link is attched bellow:
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-# Host Machine Env
+# Host Machine Environment
 Ubuntu16.04, virtual machine using EXSI-8.0, 4Cores 8GB Memroy 25GB hard disk. 
 
 ## Dependencies
@@ -26,7 +26,7 @@ Ubuntu16.04, virtual machine using EXSI-8.0, 4Cores 8GB Memroy 25GB hard disk.
 4. Python2
 
 
-# Runing the v-rep simulator
+# Running the v-rep simulator
 ```
 $ cd /V-REP_PRO_V3_6_2_Ubuntu16_04
 $ ./vrep.sh
@@ -68,7 +68,8 @@ After you start the controller, it will show like the picture bellow:
 
 
 # References
-Links:
+***Links:***
+
 
 https://blog.csdn.net/qq_38587510/article/details/104369066
 
@@ -78,8 +79,11 @@ https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm
 
 https://manual.coppeliarobotics.com/en/rosInterf.htm
 
-V-REP previous versions:
+***V-REP previous versions:***
+
 https://www.coppeliarobotics.com/previousVersions
 
-NEST2.10:
+
+***NEST2.10:***
+
 https://nest-simulator.readthedocs.io/en/v2.20.0/installation/oldvers_install.html
