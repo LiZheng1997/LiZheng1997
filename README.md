@@ -1,8 +1,8 @@
 # Personal Academic Web Page
-This is my personal academic web page. My research interests contain Spiking Neural Network, neurorobotics, event-based cameras, Brain-based visual learning, Active Visual Learning, etc.
+This is my personal [academic web page](https://neuronsvision.com/). My research interests contain Spiking Neural Network, neurorobotics, event-based cameras, Brain-based visual learning, Active Visual Learning, etc.
 
 ## Personal Blog
-https://www.bluenote.top
+[bluenote](https://www.bluenote.top)
 
 ## Previous Projects
 
@@ -11,6 +11,9 @@ This is my dissertation project when I was in the University of Sheffield in 201
 
 ### "Follow Me"
 This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released on my [repository](https://github.com/LiZheng1997/Follow-Me).
+
+### End-to-End Robot Control based on Events
+This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
 
 ### "POSP"
 POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camear, like Realsense D415/D435(I used a D415 in this project). All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
@@ -22,12 +25,8 @@ The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus wh
 Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance, road curb detection module as well. [repository](https://github.com/LiZheng1997/Sweeping-Robots).
 
 
-### End-to-End Robot Control based on Events
-This end-to-end robot control project is similar with my miro-cv-system project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
-
-
-### Neurorobotics using Nengo
-
+### Robust, Embedded Neurorobotics using Nengo
+This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes on my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
 
 
 
