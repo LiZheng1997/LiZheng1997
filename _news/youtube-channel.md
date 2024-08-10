@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My personal [Bilibili Channel](https://www.youtube.com/@user-kl9pd2zc2q) is launched!
+My personal [Youtube Channel](https://www.youtube.com/@user-kl9pd2zc2q) is launched!
