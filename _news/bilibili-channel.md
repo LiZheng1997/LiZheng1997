@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My personal [Bilibili Channel](https://www.bluenote.top/) is launched!
+My personal [Bilibili Channel](https://www.bilibili.com/video/BV1Bm4y1w7BZ/) is launched!
