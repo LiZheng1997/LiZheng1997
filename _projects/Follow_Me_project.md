@@ -13,22 +13,15 @@ This "**Follow Me**" project implements a visual tracking & control system with 
 I designed and implemented a pure visual tracking system for a customer. The customer expected that this tracking system finally could track three objects(Cars, Pedestrians and UAVs) and follow them once a goal, means SOT(Single Object Tracking). Followings are two video demos.
 
 
-<div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" width="60%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
-<div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=561767384&bvid=BV1xe4y1i7wi&cid=866931240&p=1&muted=true" width="60%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.bilibili.com/video/BV1Bm4y1w7BZ/?share_source=copy_web&vd_source=81fc800c9cfa4893666931076308fa4b" class="img-fluid rounded z-depth-1" %}
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=689345413&bvid=BV1Bm4y1w7BZ&cid=866920512&p=1&muted=true" width="60%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.bilibili.com/video/BV1xe4y1i7wi/?share_source=copy_web&vd_source=81fc800c9cfa4893666931076308fa4b" class="img-fluid rounded z-depth-1" %}
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=561767384&bvid=BV1xe4y1i7wi&cid=866931240&p=1&muted=true" width="60%" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     </div>
 </div>
+
 
 
 # Requirements and Motivation
