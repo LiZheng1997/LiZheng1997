@@ -70,3 +70,6 @@ multi-modal sensor fusion algorithms.
 A Chinese Invention [Patent](http://epub.cnipa.gov.cn/patent/CN116630374A) Public Patent NO: CN116630374A, Title: 目标对象的视觉跟踪方法、装置、存储介质及设备(A Visual tracking method, device, storage medium and equipment for target object).
 
 ## Publications
+
+Master's thesis: 
+2020-PhD Proposal: 
