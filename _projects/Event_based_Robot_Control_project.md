@@ -1,21 +1,20 @@
 ---
 layout: page
-title:  Event-Based End-to-End Robot Control 
+title:  Training Neural Networks for Event-Based End-to-End Robot Control 
 description: a project with a background image
 img: assets/img/pioneer-robot.png
 importance: 3
 category: research
 ---
 
-# Training Neural Networks for Event-Based End-to-End Robot Control
-
 I reproduced this project with a Poineer mobile robot in the V-REP simulator on 20231028.
 There are four kinds of controllers, named Braitenberg, DQN, SNN, R-STDP.
 
 A video demo link is attched bellow:
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+<div class="video-container iframe-container">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
 
 # Host Machine Env
 Ubuntu16.04, virtual machine using EXSI-8.0, 4Cores 8GB Memroy 25GB hard disk. 
@@ -45,7 +44,6 @@ and the screenshot is attached bellow:
 ## Braitenberg
 ```
 $ python Controller/Braitenberg/controller.py 
-
 ```
 After you start the controller, it will show like the picture bellow:
 <div class="row">
@@ -71,9 +69,13 @@ After you start the controller, it will show like the picture bellow:
 
 # References
 Links:
+
 https://blog.csdn.net/qq_38587510/article/details/104369066
+
 https://www.guyuehome.com/1966
+
 https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm
+
 https://manual.coppeliarobotics.com/en/rosInterf.htm
 
 V-REP previous versions:
