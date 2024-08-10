@@ -17,7 +17,7 @@ All Public services are listed bellow:
 | :-----------------------: | :--------------:  | :------------------------------------:                    |
 |Personal Blogs             |Ubuntu22-blog      |[www.bluenote.top](https://www.bluenote.top )              |
 |Hexo-Blog                  |Ubuntu22-blog      |[www.bluenote.top](https://www.bluenote.top/)              |
-|Personal Academic Website  |Github             |[neuronsvisioncom](https://neuronsvisioncom/)              |
+|Personal Academic Website  |Github             |[neuronsvision.com](https://neuronsvision.com/)              |
 |Baota-Panel-hexo           |Ubuntu22-blog      |[Baota-Hexo](https://www.gputek.cn:26459/ad31e4e2)         |
 |Coder-Server               |Ubuntu22.04-Prod   |[coder.gputek.cn](http://coder.gputek.cn)                  |
 |Homer                      |Ubuntu22.04-Prod   |[homelab.gputek.cn](http://homelab.gputek.cn/)             |
