@@ -10,7 +10,7 @@ This is my personal [academic web page](https://neuronsvision.com/). My research
 This is my dissertation project when I was in the University of Sheffield in 2019. All codes are open sourced, you can read more details from my [repository](https://github.com/LiZheng1997/MiRo-CV-System).
 
 ### "Follow Me"
-This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released on my [repository](https://github.com/LiZheng1997/Follow-Me).
+This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released in my [repository](https://github.com/LiZheng1997/Follow-Me).
 
 ### End-to-End Robot Control based on Events
 This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
@@ -26,7 +26,7 @@ Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainl
 
 
 ### Robust, Embedded Neurorobotics using Nengo
-This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes on my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
+This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes in my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
 
 
 
@@ -35,6 +35,8 @@ This project mainly shows how to use Nengo to implement a robous, embedded neura
 ### Teach & Repeat Visual Navigation using a Jaguar Robot
 An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
 
+### Modelling and Simulation of Natural System
+This is a Module from the University of Sheffield, I implemented this natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
 
 ## Research & Development works
 
