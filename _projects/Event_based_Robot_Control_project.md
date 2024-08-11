@@ -137,11 +137,19 @@ The network architecture of the Braitenberg vehicle using DVS frames as input.
 
 ## R-STDP
 The network architecture is different from the previous Braitenberg vehicle, it merely use one SNN to control left and right motor outputs.
-![Network structure of R-STDP](assets/img/network-rstdp.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/network-rstdp.png" title="Framework" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 # Comparision of different controllers on the outer lane
-![Comparision of results of different controllers](assets/img/comparision-controllers.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/comparision-controllers.png" title="Framework" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 It is obvious from the result that R-STDP is the most robust and stable one from the distance away from the lane center.
