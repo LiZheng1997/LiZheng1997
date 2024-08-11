@@ -16,7 +16,7 @@ This project's objective is implementing a visual tracking and control system to
 This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
 
 ### "POSP"
-POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camear, like Realsense D415/D435(I used a D415 in this project). All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
+POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camera, like Realsense D415/D435(I used a D415 in this project). All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
 
 ### "RoboBus"
 The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus which designed for urban area. I mainly hold the part of whole perception framework, more details can be accessed from my [repository](https://github.com/LiZheng1997/Robobus).
