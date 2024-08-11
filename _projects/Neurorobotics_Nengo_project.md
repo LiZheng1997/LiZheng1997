@@ -2,7 +2,7 @@
 layout: page
 title: Neurorobotics
 description: a project with no image
-img:
+img: assets/img/Neurorobotics2.png
 importance: 4
 category: research
 ---
