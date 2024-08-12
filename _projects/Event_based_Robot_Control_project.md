@@ -99,7 +99,7 @@ The reward is defined as a Gaussian distributed function of the lane-center dist
 
 
 ## DQN+SNN
-The SNN is trained approximating the policy given be the Q-network of the DQN algorithm.
+The SNN is trained approximating the policy given by the Q-network of the DQN algorithm.
 
 ### The Algorithm of Converting ANNs to SNNs
 <div class="row">
