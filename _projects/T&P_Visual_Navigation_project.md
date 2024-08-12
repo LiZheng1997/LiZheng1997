@@ -9,7 +9,7 @@ category: research
 
 # Background
 
-During the short internship with Dr Li Sun from 2019.12-2020.01, and under the help of two PhD students from the Czech Technical University in Prague, I deployed the following Teach & Repeat algorithms on a Jaguar robot 4x4 wheels(differential base), with a ZED stereo camera mounted on it. All codes can accessed from their [github](https://github.com/Bluet-NeuroRobotics/stroll_bearnav/tree/core?tab=readme-ov-file)
+During the short internship with Dr Li Sun from 2019.12-2020.01, and under the help of two PhD students from the Czech Technical University in Prague, I deployed the following Teach & Repeat algorithms on a Jaguar robot 2x2 wheels(differential base), with a ZED stereo camera mounted on it. All codes can accessed from their [github](https://github.com/Bluet-NeuroRobotics/stroll_bearnav/tree/core?tab=readme-ov-file)
 
 
 <div class="row">
@@ -19,13 +19,16 @@ During the short internship with Dr Li Sun from 2019.12-2020.01, and under the h
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Navigation-process.png" title="Framework" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/video-on-youtube.png" title="Framework" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
         Left: The Jaguar robot's outlook
         Right: The Testing place is near a church 
 </div>
 
-
+![alt text](video-on-youtube.png)
 
 The final video demo is attached bellow, you can click the picture to watch it.
 
