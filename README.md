@@ -28,12 +28,13 @@ Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainl
 ### Robust, Embedded Neurorobotics using Nengo
 This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes in my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
 
-
+### "H-ackerman Robot"
+H-ackerman robot is a robot built up with mounting a ackerman chassis; a ZED camera and a Jetson Xaver Devkit 32G. Based on T&P Project I did in the University of Sheffield, I deployed this on my H-ackerman robot, so I can further more research on it. More details can be found in my repository.
 
 ## Research Experience
 
 ### Teach & Repeat Visual Navigation using a Jaguar Robot
-An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo1](https://www.youtube.com/watch?v=4-_VVGgxXEI)[Demo2](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
+An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo1](https://www.youtube.com/watch?v=4-_VVGgxXEI) [Demo2](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
 
 ### Modelling and Simulation of Natural System
 This is a Module from the University of Sheffield, I implemented this natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
