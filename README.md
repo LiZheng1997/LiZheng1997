@@ -33,7 +33,7 @@ This project mainly shows how to use Nengo to implement a robous, embedded neura
 ## Research Experience
 
 ### Teach & Repeat Visual Navigation using a Jaguar Robot
-An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
+An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo2](https://www.youtube.com/watch?v=4-_VVGgxXEI)[Demo2](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
 
 ### Modelling and Simulation of Natural System
 This is a Module from the University of Sheffield, I implemented this natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
