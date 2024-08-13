@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neurorobotics
-description: a porject implementing neuro-inspied robotics
+description: Neuro-inspied robotics using Nengo
 img: assets/img/Neurorobotics1.png
 importance: 4
 category: research

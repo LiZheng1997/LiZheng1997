@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Training Neural Networks for Event-Based End-to-End Robot Control 
-description: reproduced a end-to-end robot controller based on events
+description: End-to-end robot controllers using DQN, Braitenberg Vehicle, SNN, R-STDP
 img: assets/img/pioneer-robot.png
 importance: 3
 category: research
