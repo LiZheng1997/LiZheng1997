@@ -18,6 +18,6 @@ I converted the .stp CAD model of this KUKA robot to a Gazebo 3d model, and test
 The video demo is shown bellow.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=266673446&bvid=BV1TY411i7eL&cid=1003295293&p=1&muted=true" width="60%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=266673446&bvid=BV1TY411i7eL&cid=1003295293&p=1&muted=true" width="60%" height="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     </div>
 </div>
