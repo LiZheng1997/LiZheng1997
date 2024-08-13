@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Sweeping Robots 
+title:  KUKA robtics arm 
 description: Designed and implemented a perception module for a KUKA robotic arm 
 img: assets/img/kuka-robot.png
 importance: 5
