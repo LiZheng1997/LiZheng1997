@@ -17,9 +17,9 @@ Demo videos are like bellow:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/RK577o9w0Zk?si=iGnZ29nEv3u5uYiq" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/RK577o9w0Zk?si=iGnZ29nEv3u5uYiq" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/0ejD9wIuQxk?si=242vk5SPjLDrFdRr" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/0ejD9wIuQxk?si=242vk5SPjLDrFdRr" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
