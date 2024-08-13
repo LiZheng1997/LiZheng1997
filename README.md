@@ -22,7 +22,7 @@ The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus wh
 Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance, road curb detection module as well. [repository](https://github.com/LiZheng1997/Sweeping-Robots).
 
 ### "H-ackerman Robot"
-H-ackerman robot is a robot built up with mounting a ackerman chassis; a ZED camera and a Jetson Xaver Devkit 32G. Based on T&P Project I did in the University of Sheffield, I deployed this on my H-ackerman robot, so I can further more research on it. More details can be found in my repository.
+H-ackerman robot is a robot built up with mounting a ackerman chassis; a ZED camera and a Jetson Xaver Devkit 32G. Based on T&P Project I did in the University of Sheffield, I deployed this on my H-ackerman robot, so I can further more research on it. More details can be found in my [repository](https://github.com/LiZheng1997/H-Ackerman-Robot).
 
 ## Research Experience
 
@@ -30,7 +30,7 @@ H-ackerman robot is a robot built up with mounting a ackerman chassis; a ZED cam
 An internship with Dr Li Sun in the University of Sheffield about autonomous mobile robots (a Jaguar robot). [Demo1](https://www.youtube.com/watch?v=4-_VVGgxXEI) [Demo2](https://v.youku.com/v_show/id_XNDUyMDIyMzU5Ng==.html?spm=a2hzp.8253869.0.0)
 
 ### Modelling and Simulation of Natural System
-This is a Module from the University of Sheffield, I implemented this natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
+This is a course (COM6009) from the University of Sheffield, I implemented a natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
 
 ### End-to-End Robot Control based on Events
 This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
@@ -47,7 +47,7 @@ autonomous robots through using event cameras in **low-light** environments, esp
 detection.
 
 ### A Perception module for KUKA Robotic arms with 3D structured-light stereo cameras
-Doing research and development works in the perception module of a KUKA robotic arm project, which
+Doing research and development works in the perception module of a KUKA KR210 R2700-2 robotic arm project, which
 includes doing a survey about the comparison of different **3D structured-light cameras**; designing a solution of collecting the detailed 3D point cloud data for aluminium material; and doing research about how to calculate the physical error between the aluminium product’s point cloud data and the CAD prototype ground truth data.
 
 ### A Perception module for sweeping robots with a ZED stereo camera
@@ -57,7 +57,7 @@ solution of mounting a stereo camera detection module on a sweeping robot;  doin
 about data augmentation in object detection research field; and developing a online website for annotating 2D and 3D objects.
 
 ### A Perception module of autoware full stack AD framework
-Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and finally these works finally formed into a standard released version for customers.
+Doing research and development works in the perception module based on the framework of Autoware.ai/Autoware.tierIV and Autoware.universe, and these works finally formed into a standard released version for customers.
 
 ### A Perception module of autonomous shuttle bus
 Doing research and development works in the perception module of a Robobus project, which includes
@@ -77,4 +77,4 @@ A Chinese Invention [Patent](http://epub.cnipa.gov.cn/patent/CN116630374A) Publi
 Master's thesis: Application of Computer Vision on a Biomimetic robot
 
 
-2020-PhD Proposal: 
+2020-PhD Proposal: A Self-supervised, Self-adaptive Model for the Next Generation Vision-based Robot Navigation
