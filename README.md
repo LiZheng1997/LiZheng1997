@@ -12,9 +12,6 @@ This is my dissertation project when I was in the University of Sheffield. All c
 ### "Follow Me"
 This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released in my [repository](https://github.com/LiZheng1997/Follow-Me).
 
-### End-to-End Robot Control based on Events
-This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
-
 ### "POSP"
 POSP is a project for Picking Out Single Package on a long conveyor belt. This algorithm must work with a Depth Camera, like Realsense D415/D435(I used a D415 in this project). All codes can be accessed from my [repository](https://github.com/LiZheng1997/POSP).
 
@@ -23,10 +20,6 @@ The [Robobus](https://www.pixmoving.com/robobus) is a autonoumous shuttle bus wh
 
 ### "Sweeping Robots"
 Sweeping robots is an autonomous mobile robot for cleaning road surface. I mainly hold the part of trash detection and obstacle segmentation for avoidance, road curb detection module as well. [repository](https://github.com/LiZheng1997/Sweeping-Robots).
-
-
-### Robust, Embedded Neurorobotics using Nengo
-This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes in my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
 
 ### "H-ackerman Robot"
 H-ackerman robot is a robot built up with mounting a ackerman chassis; a ZED camera and a Jetson Xaver Devkit 32G. Based on T&P Project I did in the University of Sheffield, I deployed this on my H-ackerman robot, so I can further more research on it. More details can be found in my repository.
@@ -38,6 +31,13 @@ An internship with Dr Li Sun in the University of Sheffield about autonomous mob
 
 ### Modelling and Simulation of Natural System
 This is a Module from the University of Sheffield, I implemented this natural system model with my group mates through using Matlab to simulate a natural process of bee foraging. All codes and additional materials are avaliable in my [repository](https://github.com/LiZheng1997/Modelling-and-Simulation-of-Natural-System).
+
+### End-to-End Robot Control based on Events
+This end-to-end robot control project is similar with my **miro-cv-system** project, both of them are using a end-to-end paradigm to control a mobile robots with differential base. However, this project is based on event cameras and implemented with a Spiking Neural Network rather than ANN. More details can be found on my [academic page](https://neuronsvision.com/projects/Event_based_Robot_Control_project/) and [repository](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control).
+
+### Robust, Embedded Neurorobotics using Nengo
+This project mainly shows how to use Nengo to implement a robous, embedded neural adaptive control. Based on Nengo, it can be deployed on CPUs and GPUs as well as Intel’s neuromorphic chip, Loihi. You can read my [academic page](https://neuronsvision.com/projects/Neurorobotics_Nengo_project/) or find codes in my [repository](https://github.com/Bluet-NeuroRobotics/neurorobotics-2020)
+
 
 ## Research & Development works
 
@@ -74,6 +74,7 @@ A Chinese Invention [Patent](http://epub.cnipa.gov.cn/patent/CN116630374A) Publi
 
 ## Publications
 
-Master's thesis: 
+Master's thesis: Application of Computer Vision on a Biomimetic robot
+
 
 2020-PhD Proposal: 
