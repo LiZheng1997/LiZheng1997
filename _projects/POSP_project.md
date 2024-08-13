@@ -9,7 +9,7 @@ category: work
 
 # Background
 
-This is a [project](https://github.com/LiZheng1997/POSP) for picking out s single package when there are parallel packages. **POSP** means Pick Out Single Package, this project aims at solving the problem of parallel packages transporting on a conveyor belt. The Normal situation is that two packages are closing to each other, but sometimes a difficult situations is that one package will be too close to the other one or two packages.
+This is a [project](https://github.com/LiZheng1997/POSP) for picking out a single package when there are parallel packages. **POSP** means Pick Out Single Package, this project aims at solving the problem of parallel packages transporting on a conveyor belt. The Normal situation is that two packages are closing to each other, but sometimes a difficult situations is that one package will be too close to the other one or two packages.
 
 Like the video shows below, you can click the picture to watch it:
 
