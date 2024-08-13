@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Sweeping Robots 
-description: Designed and implemented a perception module of a sweeping robot 
+description: A sweeping robot in Pixmoving 
 img: assets/img/sweeping-robot.png
 importance: 4
 category: work
