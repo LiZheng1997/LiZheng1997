@@ -14,7 +14,7 @@ The KUKA robot I used in this project is a KUKA KR210 R2700-2, the outlook is sh
     </div>
 </div>
 
-I converted the STP CAD model of this KUKA robot to a Gazebo 3d model, and tested with a ROS controller.
+I converted the .stp CAD model of this KUKA robot to a Gazebo 3d model, and tested with a ROS controller.
 The video demo is shown bellow.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
