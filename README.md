@@ -7,7 +7,7 @@ This is my personal [academic web page](https://neuronsvision.com/). My research
 ## Previous Projects
 
 ### "Miro-CV-System"
-This is my dissertation project when I was in the University of Sheffield in 2019. All codes are open sourced, you can read more details from my [repository](https://github.com/LiZheng1997/MiRo-CV-System).
+This is my dissertation project when I was in the University of Sheffield. All codes are open sourced, you can read more details from my [repository](https://github.com/LiZheng1997/MiRo-CV-System).
 
 ### "Follow Me"
 This project's objective is implementing a visual tracking and control system to satisfy customer's requirments(Following trucks, pedestrians and drones). Finally, I used a gimbal camera and a PixKit chassis to achieve a robust visual tracking-by-detection and control system. This project sucessfully helps that customer to do further research based on it, more details are released in my [repository](https://github.com/LiZheng1997/Follow-Me).
@@ -74,4 +74,5 @@ A Chinese Invention [Patent](http://epub.cnipa.gov.cn/patent/CN116630374A) Publi
 ## Publications
 
 Master's thesis: 
+
 2020-PhD Proposal: 
