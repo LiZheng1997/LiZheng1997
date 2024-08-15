@@ -14,6 +14,6 @@ The **H-Ackerman robot** is designed with using a Jetson Xavier and a stereo cam
     </div>
 </div>
 
-This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Li Sun in the University of Sheffield. You can find more details in the [ projects page](https://neuronsvision.com/projects/4_project/), named T & R Visual Navigation.
+This robot is mainly designed for reproducing a Teach & Reapt project when I was doing the short term internship with Dr. Li Sun in the University of Sheffield. You can find more details in the [ projects page](https://neuronsvision.com/projects/4_project/), named T & R Visual Navigation. Meanwhile, all codes will be avaliable in my [repository](https://github.com/LiZheng1997/H-Ackerman-Robot)
 
 A real time video can be accessed through following link:
