@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My invention patent about visual tracking on robots is authorized!
 date: 2023-09-19
 inline: true
 related_posts: false

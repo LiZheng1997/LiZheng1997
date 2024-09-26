@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My utility model patent about portable point cloud map acquisition is authorized!
 date: 2024-02-06
 inline: false
 related_posts: false
