@@ -165,8 +165,7 @@ It is obvious from the result that R-STDP is the most robust and stable one from
 [1] Towards a framework for end-to-end control of a simulated vehicle with spiking neural networks
 [2] Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing
 
-***Links:***
-
+***Relevant Links:***
 
 [](https://blog.csdn.net/qq_38587510/article/details/104369066)
 

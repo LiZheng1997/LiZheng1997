@@ -10,7 +10,7 @@ category: research
 Based on the [repository](https://github.com/abr/neurorobotics-2020), I reproduced their work. You can find their paper through this [link](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2020.568359/full).
 
 
-Some screenshots are attached bellow, these pictures show the results of a rover robot approching a random generated target in the simulator.
+Some screenshots are attached below, these pictures show the results of a rover robot approching a random generated target in the simulator.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
