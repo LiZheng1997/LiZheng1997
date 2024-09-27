@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neurorobotics
-description: Neuro-inspied robotics using Nengo
+description: Neuro-inspired robotics using Nengo
 img: assets/img/Neurorobotics1.png
 importance: 4
 category: research

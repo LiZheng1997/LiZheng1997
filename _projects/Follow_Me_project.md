@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-This "**Follow Me**" project implements a visual tracking & control system with using a PixKit-1.0 Chassis. Check more details on my [github](https://github.com/LiZheng1997/Follow-Me). Meanwhile, a invention patent is authorized in China, check this Google Patent Link: [](https://patents.google.com/patent/CN116630374B/en?oq=CN116630374B).
+This "**Follow Me**" project implements a visual tracking & control system with using a PixKit-1.0 Chassis. Check more details on my [github](https://github.com/LiZheng1997/Follow-Me). Meanwhile, a invention patent is authorized in China, check this Google Patent : [Link](https://patents.google.com/patent/CN116630374B/en?oq=CN116630374B).
 
 I designed and implemented a pure visual tracking system for a customer. The customer expected that this tracking system finally could track three objects(Cars, Pedestrians and UAVs) and follow them once a goal, means SOT(Single Object Tracking). Followings are two video demos.
 
@@ -36,7 +36,7 @@ According to the definition of "**Follow Me**" functionality, we want our robots
 
 ### Gimbal Camera
 
-The gimbal camear used in this project looks like pictures bellow.
+The gimbal camear used in this project looks like pictures below.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/20220114-e0917cd4.png" title="Flow Diagram" class="img-fluid rounded z-depth-1" %}
