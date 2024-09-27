@@ -8,9 +8,11 @@ category: research
 ---
 
 I reproduced this project with a Pioneer P3-DX mobile robot in the V-REP simulator on 20231028.
-There are four kinds of controllers, named Braitenberg, DQN, DQN+SNN, R-STDP.
+There are four kinds of controllers, named **Braitenberg**, **DQN**, **DQN+SNN**, **R-STDP**.
 
-The robot is attached with a DVS camera like the picture bellow:
+Check codes on [Github](https://github.com/Bluet-NeuroRobotics/Training-Neural-Networks-for-Event-Based-End-to-End-Robot-Control)
+
+The robot is attached with a DVS camera like the picture below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/pioneer-robot-dvs.png" title="Framework" class="img-fluid rounded z-depth-1" %}
@@ -18,10 +20,10 @@ The robot is attached with a DVS camera like the picture bellow:
 </div>
 
 
-A video demo link is attched bellow:
+A video demo link is attched below:
 
 <div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="60%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 # Host Machine Environment
@@ -40,7 +42,7 @@ $ cd /V-REP_PRO_V3_6_2_Ubuntu16_04
 $ ./vrep.sh
 ```
 
-and the screenshot is attached bellow:
+and the screenshot is attached below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/robot-lane-keeping.png" title="Framework" class="img-fluid rounded z-depth-1" %}
@@ -53,7 +55,7 @@ and the screenshot is attached bellow:
 ```
 $ python Controller/Braitenberg/controller.py 
 ```
-After you start the controller, it will show like the picture bellow:
+After you start the controller, it will show like the picture below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/pioneer-robot.png" title="Framework" class="img-fluid rounded z-depth-1" %}
@@ -63,7 +65,7 @@ After you start the controller, it will show like the picture bellow:
 # Framework
 
 ## Simulated Environment
-The experiment is based on a lane-following scenario, depicted in the picture bellow.
+The experiment is based on a lane-following scenario, depicted in the picture below.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/env.png" title="Framework" class="img-fluid rounded z-depth-1" %}
@@ -72,7 +74,7 @@ The experiment is based on a lane-following scenario, depicted in the picture be
 
 
 ## Input Event data
-The input data pre-processing is depicted like the picture bellow:
+The input data pre-processing is depicted like the picture below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/input-dvs-frames.png" title="Framework" class="img-fluid rounded z-depth-1" %}
@@ -110,7 +112,7 @@ The SNN is trained approximating the policy given by the Q-network of the DQN al
 Model-based normalization algorithm for converting ANNs into SNNs according to Diehl et al(Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing.). 
 
 ### Communication between components of the DQN-SNN controller
-The communication diagram is attached bellow:
+The communication diagram is attached below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/comm-dqn-snn.png" title="Framework" class="img-fluid rounded z-depth-1" %}

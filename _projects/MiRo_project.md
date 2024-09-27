@@ -10,6 +10,7 @@ related_publications:
 
 This is my first version of an bio-inspired visual system which is based on OpenCV APIs and ANN, and the final aim of this project is intercepting a moving target. I pre-defined three targets, named pedestrians, MiRo robots and MiRo toy balls. In total, there are three scenarios for different deploying situations, like on-board; off-board and in a simulator (Gazebo). Some codes are inspired from code samples in the MDK-2019 version. Thanks for their brilliant work on building MiRo robots. I am also one of big fans loving biomimetic robots. [Consequential Robotics Lab link](http://labs.consequentialrobotics.com/miro-e/docs/index.php?page=Introduction)
 
+Check codes on my [Github](https://github.com/LiZheng1997/MiRo-CV-System).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -119,7 +120,7 @@ $ roslaunch miro_cv miro_cv.launch
 
 ## 1. Background
 
-First of all, this project is my Master's dissertation project in 2019, now I uploaded all codes and more improvements will be implemented in the future. All relevant resources will be uploaded, including training sample images and model files. You can find some model files in the root path of this repo, a fold named ***models***. Training sample images can be found here: [Google Drive](https://drive.google.com/drive/folders/1owF3loF_p_iO_xP7X3yBjYI6e0c9NLm3?usp=sharing)
+First of all, this project is my Master's dissertation project in 2019, I uploaded all codes and more improvements will be implemented in the future. All relevant resources will be uploaded, including training sample images and model files. You can find some model files in the root path of this repo, a fold named ***models***. Training sample images can be found here: [Google Drive](https://drive.google.com/drive/folders/1owF3loF_p_iO_xP7X3yBjYI6e0c9NLm3?usp=sharing)
 
 
 

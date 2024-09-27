@@ -9,7 +9,7 @@ category: research
 
 # Background
 
-During the short internship with Dr Li Sun from 2019.12-2020.01, and under the help of two PhD students from the Czech Technical University in Prague, I deployed the following Teach & Repeat algorithms on a Jaguar robot 2x2 wheels(differential base), with a ZED stereo camera mounted on it. All codes can accessed from their [github](https://github.com/Bluet-NeuroRobotics/stroll_bearnav/tree/core?tab=readme-ov-file)
+During the short internship with Dr Li Sun from 2019.12-2020.01, and under the help of two PhD students from the Czech Technical University in Prague, I deployed the following Teach & Repeat algorithms on a Jaguar robot 2x2 wheels(differential base), with a ZED stereo camera mounted on it. All codes can accessed from [github](https://github.com/Bluet-NeuroRobotics/stroll_bearnav/tree/core?tab=readme-ov-file)
 
 
 <div class="row">
@@ -28,7 +28,7 @@ During the short internship with Dr Li Sun from 2019.12-2020.01, and under the h
         Right: The Testing place is near a church 
 </div>
 
-The final video demo is attached bellow, you can click the picture to watch it.
+The final video demo is attached below, you can click the picture to watch it.
 
 [![Teach & Repeat visual navigation](https://res.cloudinary.com/marcomontalbano/image/upload/v1723098695/video_to_markdown/images/youtube--4-_VVGgxXEI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=4-_VVGgxXEI "Teach & Repeat visual navigation")
 
@@ -37,7 +37,7 @@ The final video demo is attached bellow, you can click the picture to watch it.
 # System
 
 ## Hardware
-1. a ZED camera(1st 2nd mini generation are all nice)
+1. a ZED camera(1st/2nd/mini series are all nice)
 2. a PS4 joystick (for the first teach round, not used in repeat round)
 3. a Ackerman chassis or robots with differential base (control commands will be different)
 4. a Jetson Xavier/Orin Developer Kit 32G/Laptop. (Computing Unit)
