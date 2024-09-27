@@ -10,7 +10,7 @@ My first [HomeLab](http://www.gputek.cn:8083/) is built up sucessfully! :sparkle
 
 I released my homelab configurations on my [Github](https://github.com/LiZheng1997/homelab), you can find more details on my github repository.
 
-All Public services are listed bellow:
+All Public services are listed below:
 
 
 |        Applications       |  Hosted-servers   |URLs                                                       |
@@ -28,7 +28,7 @@ All Public services are listed bellow:
 |Calibre                    |Synology-NAS       |[Calibre](http://www.synotech.top:8888/)                   |
 |Harbor                     |Synology-NAS       |[Harbor](https://www.synotech.top:4001)                    |
 
-The apperance of my servers in my Cabinet is like bellow:
+The apperance of my servers in my Cabinet is like below:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

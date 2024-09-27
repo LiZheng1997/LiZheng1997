@@ -6,8 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Autoware.Universe can be deployed sucessfully on a Jetson Orin 32G, and I already completed the
-joint test with AWSIM, using a agent in AWSIM simulator to test with autoware full stack algorithms.
+Autoware.Universe can be deployed sucessfully on a Jetson Orin 32G, and I already completed the joint test with AWSIM, using a agent in AWSIM simulator to test with autoware full stack algorithms.
 
 ***
 
