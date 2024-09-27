@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 2024-02-06 Publication of CN220455529U
-Google patent link: https://patents.google.com/patent/CN220455529U/en?oq=CN220455529U 
+Google patent: [link]https://patents.google.com/patent/CN220455529U/en?oq=CN220455529U 
 
 My untility model patent named "Portable point cloud map acquisition equipment" is authorized, and I am the second inventor.
 
