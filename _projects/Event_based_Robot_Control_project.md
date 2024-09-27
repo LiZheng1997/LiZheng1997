@@ -23,7 +23,7 @@ The robot is attached with a DVS camera like the picture below:
 A video demo link is attched below:
 
 <div class="video-container iframe-container">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="60%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112687409268319&bvid=BV1X33yeYEnF&cid=500001597648077&p=1&muted=true" width="80%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 # Host Machine Environment
@@ -168,19 +168,19 @@ It is obvious from the result that R-STDP is the most robust and stable one from
 ***Links:***
 
 
-https://blog.csdn.net/qq_38587510/article/details/104369066
+[](https://blog.csdn.net/qq_38587510/article/details/104369066)
 
-https://www.guyuehome.com/1966
+[](https://www.guyuehome.com/1966)
 
-https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm
+[](https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm)
 
-https://manual.coppeliarobotics.com/en/rosInterf.htm
+[](https://manual.coppeliarobotics.com/en/rosInterf.htm)
 
 ***V-REP previous versions:***
 
-https://www.coppeliarobotics.com/previousVersions
+[](https://www.coppeliarobotics.com/previousVersions)
 
 
 ***NEST2.10:***
 
-https://nest-simulator.readthedocs.io/en/v2.20.0/installation/oldvers_install.html
+[](https://nest-simulator.readthedocs.io/en/v2.20.0/installation/oldvers_install.html)
