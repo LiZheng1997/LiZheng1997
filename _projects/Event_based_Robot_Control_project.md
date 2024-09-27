@@ -167,19 +167,19 @@ It is obvious from the result that R-STDP is the most robust and stable one from
 
 ***Relevant Links:***
 
-[](https://blog.csdn.net/qq_38587510/article/details/104369066)
+[Link 1](https://blog.csdn.net/qq_38587510/article/details/104369066)
 
-[](https://www.guyuehome.com/1966)
+[Link 2](https://www.guyuehome.com/1966)
 
-[](https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm)
+[Link 3](https://www.coppeliarobotics.com/helpFiles/en/ros1Tutorial.htm)
 
-[](https://manual.coppeliarobotics.com/en/rosInterf.htm)
+[Link 4](https://manual.coppeliarobotics.com/en/rosInterf.htm)
 
 ***V-REP previous versions:***
 
-[](https://www.coppeliarobotics.com/previousVersions)
+[V-REP](https://www.coppeliarobotics.com/previousVersions)
 
 
 ***NEST2.10:***
 
-[](https://nest-simulator.readthedocs.io/en/v2.20.0/installation/oldvers_install.html)
+[NEST Simulator](https://nest-simulator.readthedocs.io/en/v2.20.0/installation/oldvers_install.html)
