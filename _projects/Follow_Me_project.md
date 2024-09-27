@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-This "**Follow Me**" project implements a visual tracking & control system with using a PixKit-1.0 Chassis.
+This "**Follow Me**" project implements a visual tracking & control system with using a PixKit-1.0 Chassis. Check more details on my (github)[https://github.com/LiZheng1997/Follow-Me]
 
 I designed and implemented a pure visual tracking system for a customer. The customer expected that this tracking system finally could track three objects(Cars, Pedestrians and UAVs) and follow them once a goal, means SOT(Single Object Tracking). Followings are two video demos.
 
