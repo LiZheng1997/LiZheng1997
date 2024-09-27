@@ -70,7 +70,9 @@ multi-modal sensor fusion algorithms.
 
 ## Patents
 
-A Chinese Invention [Patent](http://epub.cnipa.gov.cn/patent/CN116630374A) Public Patent NO: CN116630374A, Title: 目标对象的视觉跟踪方法、装置、存储介质及设备(A Visual tracking method, device, storage medium and equipment for target object).
+A Chinese Invention [Patent](https://patents.google.com/patent/CN116630374B/en?oq=CN116630374B) Public Patent NO: CN116630374B, Title: 目标对象的视觉跟踪方法、装置、存储介质及设备(Visual tracking method, device, storage medium and equipment for target object).
+
+A Chinese Utility Model [Patent](https://patents.google.com/patent/CN220455529U/en?oq=CN220455529U) Public Patent NO: CN220455529U, Title: 一种便携式点云地图采集设备(Portable point cloud map acquisition equipment)
 
 ## Publications
 
@@ -78,3 +80,5 @@ Master's thesis: Application of Computer Vision on a Biomimetic robot
 
 
 2020-PhD Proposal: A Self-supervised, Self-adaptive Model for the Next Generation Vision-based Robot Navigation
+
+2023-PhD Proposal: Learning before Acting: A Self-Supervised and lifelong, bio-inspired active visual learning framework for Robots 
